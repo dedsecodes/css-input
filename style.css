@@ -4,6 +4,16 @@
     box-sizing: border-box;
     font-family: ' Poppins ' , sans-serif;
 }
+h1{
+    color: #fff;
+    margin-bottom: 20px;
+}
+h2{
+    color: #00dfc4;
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 0px;
+}
 
 body{
     display: flex;
